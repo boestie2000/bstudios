@@ -3,5 +3,6 @@
 
 # Plugins
 
-BSetSpawn: (Coming Soon)
+BSetSpawn: [BSetSpawn Plugin](https://www.spigotmc.org/resources/bsetspawn.131963/)
+
 BCrates: (Coming Soon)
