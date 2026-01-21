@@ -1,4 +1,4 @@
-# bstudios
+# BStudios
 # Here are all the plugins from BStudios
 
 # Plugins
